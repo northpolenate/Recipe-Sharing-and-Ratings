@@ -3,6 +3,7 @@ Recipe Sharing and Ratings web application
 A platform for food enthusiasts to connect, share their culinary creations,and discover new and exciting dishes. 
 You can customize and expand the features based on your preferences and user feedback.
 
+
 Outline:
 
     User Registration and Authentication:
